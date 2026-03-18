@@ -1,0 +1,16 @@
+Name: Claire Liu
+
+Number of late days you are taking on this lab:
+5 days but I asked for extension in the beginning of the semster.
+
+Collaborators (who you talked to about the lab, what you talked about):
+Yu-Jing Wei
+
+Source material that you consulted:
+I've read through the manual for the C document.
+
+Other acknowledgments:
+I've used LLM to assist me locate the bug but I tried to solve it by myself.
+
+Anything else you'd like us to know:
+None
